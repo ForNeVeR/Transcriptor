@@ -4,6 +4,7 @@ param(
 
 $ErrorActionPreference = 'Stop'
 
+$Word = $Word.ToLower()
 $uri = "http://www.wordreference.com/definition/$Word"
 $result = Invoke-WebRequest $uri
 
