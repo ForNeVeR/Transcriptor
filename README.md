@@ -2,7 +2,7 @@ Transcriptor
 ============
 
 It is a tool for automated loading the word transcriptions. It uses
-http://www.wordreference.com/ resource.
+http://www.oxforddictionaries.com/ resource.
 
 Prepare
 ---------
